@@ -1,2 +1,2 @@
 # Project
-Cancer Detection -
+This is my first repository.
